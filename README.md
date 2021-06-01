@@ -1,6 +1,6 @@
 # Introduction
 
-In this Microsoft Access project, I designed the database ERD diagram for registering information as a tax-payer. Simple queries were created to view information from different tables. Forms are used to make it easier for an end-user to view and edit table entries conveniently. Reports are used to summarize the data for managers.
+In this Microsoft Access project, I designed the database **ERD diagram** for registering information as a tax-payer. Simple **queries** were created to view information from different tables. **Forms** are used to make it easier for an end-user to view and edit table entries conveniently. **Reports** are used to summarize the data for managers.
 
 ## Screenshots
 
